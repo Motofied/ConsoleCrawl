@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\motog\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\motog\\.nuget\\packages"
+    ]
+  }
+}

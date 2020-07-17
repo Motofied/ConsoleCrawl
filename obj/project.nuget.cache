@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ohKQFU/hI2vYbk5ZFp7O8spJuLOHz3bHoxGYRTtmzEZeutrONMAL2Uco9m+42kY1/T0rmgm/tHgRv6h02F7bSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\motog\\Desktop\\ConsoleGame\\ConsoleGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\motog\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

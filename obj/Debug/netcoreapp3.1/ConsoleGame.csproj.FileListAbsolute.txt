@@ -1,0 +1,15 @@
+C:\Users\motog\Desktop\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.exe
+C:\Users\motog\Desktop\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.deps.json
+C:\Users\motog\Desktop\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.runtimeconfig.json
+C:\Users\motog\Desktop\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.runtimeconfig.dev.json
+C:\Users\motog\Desktop\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.dll
+C:\Users\motog\Desktop\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.pdb
+C:\Users\motog\Desktop\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\motog\Desktop\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.AssemblyInfoInputs.cache
+C:\Users\motog\Desktop\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.AssemblyInfo.cs
+C:\Users\motog\Desktop\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.dll
+C:\Users\motog\Desktop\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.pdb
+C:\Users\motog\Desktop\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.genruntimeconfig.cache
+C:\Users\motog\Desktop\ConsoleGame\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\motog\Desktop\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\motog\Desktop\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.csproj.CopyComplete
